@@ -1,12 +1,20 @@
-Hi, I'm Pia!👋
+<div align="left" width=300>
+  Hi, I'm Pia!👋
 
-I explore and build stuff. 
+<br>
+I explore and build stuff. <br>
 My expertise currently lie in NodeJs and ReactJs.
+<br/>
+<br/>
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pia-mary&show_icons=true&theme=default)
+<img src="https://github-readme-stats-ten-lilac-87.vercel.app/api?username=pia-mary&show_icons=true&theme=default" />
+<img src="https://github-readme-stats-ten-lilac-87.vercel.app/api/top-langs/?username=pia-mary&layout=compact" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pia-mary&layout=compact)
+<video src="https://github.com/user-attachments/assets/e4903b8a-41c6-452b-a3ab-5f6966552413"/>
+  
+<img src="https://github.com/user-attachments/assets/e4903b8a-41c6-452b-a3ab-5f6966552413"/>
+  
+  ![03-38-03-793_512](https://github.com/user-attachments/assets/e4903b8a-41c6-452b-a3ab-5f6966552413)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pia-mary)
-
-[Linkedin](https://www.linkedin.com/in/fifty-buck-code-7957653a2/) 
